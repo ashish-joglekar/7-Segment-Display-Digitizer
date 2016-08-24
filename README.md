@@ -20,3 +20,5 @@ You may need to adjust individual segment thresholds if your lighting is non uni
 3. Result is printed and also saved in a file called readings.csv
 
 4. Choose camera port correctly
+
+5. Install all dependencies. 
