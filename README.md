@@ -13,7 +13,7 @@ This code was written to record data measured by a digital multimeter and store 
                                           5|_|7     12|_|14      19|_|21
                                             6          13           20
 Once 21 points are selected the digitization will begin. You can see the output image "cropped_image". An 'ON' segment is indicated by a white circle while an 'OFF' segment is shown by a black circle.
-You may need to adjust individual sement thresholds if your lighting is non uniform.
+You may need to adjust individual segment thresholds if your lighting is non uniform.
 
 2. Current sampling time is 8 seconds. You may change it to your requirement
 
