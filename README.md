@@ -1,9 +1,11 @@
 # 7-Segment-Display-Digitizer 
+
 (Ashish Joglekar RBCCPS, IISc)
-Digitize Instrument's display by recording data using a Webcam
+rding data using a Webcam
 This code was written to record data measured by a digital multimeter and store the readings in a csv file.  
 
 1. When you first run this program you will see the image your webcam captured. Select the seven segment display segments you wish to digitize in clockwise order as shown below:
+
                                           2 _        9 _         16 _
                                           1|_| 3     8|_| 10     15|_| 17
                                             4         11           18
